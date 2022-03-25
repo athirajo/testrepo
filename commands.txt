@@ -1,1 +1,4 @@
 1. git init ----for initializing empty repository
+2. git ststus ---for listing all untracked files
+3. git add -A ---for adding al untracked files to staging area
+4. git commit -m "message" ---for adding files to local repository
